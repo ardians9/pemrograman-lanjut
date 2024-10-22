@@ -1,4 +1,4 @@
-package org.example;
+package org.example.codelab1;
 
 
 public class App {
